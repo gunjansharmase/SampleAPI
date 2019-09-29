@@ -1,0 +1,16 @@
+C:\Project\Project\SampleAPI\SampleAPI\src\PackagingAPI.DataTransferObjects\bin\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.deps.json
+C:\Project\Project\SampleAPI\SampleAPI\src\PackagingAPI.DataTransferObjects\bin\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.dll
+C:\Project\Project\SampleAPI\SampleAPI\src\PackagingAPI.DataTransferObjects\bin\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.pdb
+C:\Project\Project\SampleAPI\SampleAPI\src\PackagingAPI.DataTransferObjects\obj\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Project\Project\SampleAPI\SampleAPI\src\PackagingAPI.DataTransferObjects\obj\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Project\Project\SampleAPI\SampleAPI\src\PackagingAPI.DataTransferObjects\obj\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.AssemblyInfo.cs
+C:\Project\Project\SampleAPI\SampleAPI\src\PackagingAPI.DataTransferObjects\obj\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.dll
+C:\Project\Project\SampleAPI\SampleAPI\src\PackagingAPI.DataTransferObjects\obj\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.pdb
+C:\Project\Project\SampleAPI\SampleAPI\src\SampleAPI.DataTransferObjects\bin\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.deps.json
+C:\Project\Project\SampleAPI\SampleAPI\src\SampleAPI.DataTransferObjects\bin\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.dll
+C:\Project\Project\SampleAPI\SampleAPI\src\SampleAPI.DataTransferObjects\bin\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.pdb
+C:\Project\Project\SampleAPI\SampleAPI\src\SampleAPI.DataTransferObjects\obj\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Project\Project\SampleAPI\SampleAPI\src\SampleAPI.DataTransferObjects\obj\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Project\Project\SampleAPI\SampleAPI\src\SampleAPI.DataTransferObjects\obj\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.AssemblyInfo.cs
+C:\Project\Project\SampleAPI\SampleAPI\src\SampleAPI.DataTransferObjects\obj\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.dll
+C:\Project\Project\SampleAPI\SampleAPI\src\SampleAPI.DataTransferObjects\obj\Debug\netcoreapp2.0\SampleAPI.DataTransferObjects.pdb
